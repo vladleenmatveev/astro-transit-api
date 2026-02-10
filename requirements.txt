@@ -1,5 +1,5 @@
 Flask==3.0.0
 kerykeion==4.16.0
 pyswisseph==2.10.3.2
-pytz==2024.1
+pytz==2023.0
 gunicorn==21.2.0
